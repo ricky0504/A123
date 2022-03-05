@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rupali Chugh\\Source\\Repos\\GeorgianStudentLogin\\GeorgianStudentLogin.csproj": {}
+    "C:\\Users\\ricky\\OneDrive\\Documents\\GitHub\\A123\\GeorgianStudentLogin\\GeorgianStudentLogin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rupali Chugh\\Source\\Repos\\GeorgianStudentLogin\\GeorgianStudentLogin.csproj": {
+    "C:\\Users\\ricky\\OneDrive\\Documents\\GitHub\\A123\\GeorgianStudentLogin\\GeorgianStudentLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rupali Chugh\\Source\\Repos\\GeorgianStudentLogin\\GeorgianStudentLogin.csproj",
+        "projectUniqueName": "C:\\Users\\ricky\\OneDrive\\Documents\\GitHub\\A123\\GeorgianStudentLogin\\GeorgianStudentLogin.csproj",
         "projectName": "GeorgianStudentLogin",
-        "projectPath": "C:\\Users\\Rupali Chugh\\Source\\Repos\\GeorgianStudentLogin\\GeorgianStudentLogin.csproj",
-        "packagesPath": "C:\\Users\\Rupali Chugh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rupali Chugh\\Source\\Repos\\GeorgianStudentLogin\\obj\\",
+        "projectPath": "C:\\Users\\ricky\\OneDrive\\Documents\\GitHub\\A123\\GeorgianStudentLogin\\GeorgianStudentLogin.csproj",
+        "packagesPath": "C:\\Users\\ricky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricky\\OneDrive\\Documents\\GitHub\\A123\\GeorgianStudentLogin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rupali Chugh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ricky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
